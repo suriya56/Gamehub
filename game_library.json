@@ -1,0 +1,18 @@
+[
+    {
+        "name": "dmc",
+        "platform": "Local Install",
+        "launchPath": "D:\\Games\\Devil May Cry HD Collection\\dmcLauncher.exe",
+        "image": "",
+        "description": "",
+        "timestamp": "2025-06-26T11:28:16.456373"
+    },
+    {
+        "name": "dmc3",
+        "platform": "Local Install",
+        "launchPath": "D:\\Games\\Devil May Cry HD Collection\\dmc3.exe",
+        "image": "",
+        "description": "",
+        "timestamp": "2025-06-26T11:30:42.575569"
+    }
+]
